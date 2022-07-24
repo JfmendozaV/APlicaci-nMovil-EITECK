@@ -28,6 +28,7 @@ https://rickandmortyapi.com/
 # Desarrollado con
 
 - Flutter Dart
+
 ![Rick y Morty API](images/imagen1.png)
 
 ![Rick y Morty API](images/imagen2.png)
